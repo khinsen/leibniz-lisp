@@ -1,0 +1,9 @@
+* Leibniz in Common Lisp
+
+This repository contains a partial port of the digital notation [[https://github.com/khinsen/leibniz][Leibniz]] to Common Lisp. I did this mainly to refresh my Common Lisp experience and to explore the [[https://common-lisp.net/project/fset/Site/][FSet]] library (functional collections) using an application that I happen to know very well. I don't promise to ever complete this implementation, nor to maintain it over any length of time.
+
+** Dependencies
+
+- [[https://common-lisp.net/project/fset/Site/][FSet]] (functional collections)
+- [[https://github.com/lmj/1am][1am]] (testing framework)
+- [[https://github.com/nightfly19/cl-arrows][cl-arrows]] (Clojure-style threading macros)
